@@ -2,7 +2,7 @@
 
 Ten projekt powstał w ramach zajęć z testowania oprogramowania i obejmuje funkcjonalności systemu do zarządzania przychodnią zdrowia.
 
-## 📌 Zakres funkcjonalny
+## Zakres funkcjonalny
 
 System umożliwia:
 - Zarządzanie użytkownikami (dodawanie, edycja, zapomnienie użytkownika)
@@ -11,7 +11,7 @@ System umożliwia:
 - Obsługę listy i filtrowanie użytkowników
 - Obsługę zgodności z RODO
 
-## ✅ Przykładowe przypadki testowe
+## Przykładowe przypadki testowe
 
 Projekt zawiera:
 - User stories (np. „Jako administrator chcę dodać użytkownika…”)
@@ -19,13 +19,13 @@ Projekt zawiera:
 - Scenariusze główne, alternatywne i wyjątków
 - Walidację zgodności PESEL z płcią i datą urodzenia
 
-## 💡 Technologie
+## Technologie
 
 - C# (desktopowa aplikacja testowana manualnie)
 - MySQL
 - Dokumentacja testowa i Excel (`Testy Przychodnia.xlsx`)
 
-## 📄 Pliki w folderze
+## Pliki w folderze
 
 - `Testy Przychodnia.xlsx` – tabela przypadków testowych
 - `README.md` – ta dokumentacja
